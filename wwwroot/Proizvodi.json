@@ -1,0 +1,40 @@
+[{
+
+    "Id": 1,
+    "Naziv": "Cokolada",
+    "Opis":	"Mlecna cokolada",
+    "Kategorija": "Slatkisi",
+    "Proizvodjac": "Stark",
+    "Dobavljac": "Maxi",
+    "Cena": 100
+},
+{
+    "Id": 2,
+    "Naziv": "Plazma keks",
+    "Opis":	"Keks",
+    "Kategorija": "Slatkisi",
+    "Proizvodjac": "Plazma",
+    "Dobavljac": "Maxi",
+    "Cena": 180
+},
+
+   {
+    "Id": 3,
+    "Naziv": "Jafa keks",
+    "Opis":	"Keks",
+    "Kategorija": "Slatkisi",
+    "Proizvodjac": "Jafa",
+    "Dobavljac": "Maxi",
+    "Cena": 180
+   },
+
+{
+    "Id": 4,
+    "Naziv": "Kinder Cokolada",
+    "Opis":	"Mlecna cokolada",
+    "Kategorija": "Slatkisi",
+    "Proizvodjac": "Kinder",
+    "Dobavljac": "Maxi",
+    "Cena": 120
+
+}]
